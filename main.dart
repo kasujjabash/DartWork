@@ -1,12 +1,12 @@
 void main() {
  
-// //Exercise 3
+ //Exercise 3
   
-//  List<int> numbers = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89];
+  List<int> numbers = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89];
   
-//  List<int> numbersGreaterThanFive = numbers.where((numbers) => numbers > 5).toList();
+  List<int> numbersGreaterThanFive = numbers.where((numbers) => numbers > 5).toList();
 
-// print('This is the list of numbers Greater than five $numbersGreaterThanFive');
+ print('This is the list of numbers Greater than five $numbersGreaterThanFive');
   
   
  
@@ -42,9 +42,9 @@ Set<int> commonNumbers = {}; // Used an empty set instead of a list because a li
   
   
   //Exercise 11
-//   List<int> numbers = [5, 10, 15, 20, 25];
+   List<int> numbers = [5, 10, 15, 20, 25];
   
-//   List<int> firstAndLastNumbers = 
+   List<int> firstAndLastNumbers = 
   
   
 }
